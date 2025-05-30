@@ -1,0 +1,5 @@
+{
+  "name": "AAMVA PDF417 Barcode Generator",
+  "description": "A web application to securely generate AAMVA-compliant PDF417 barcodes from driver's license data using a credit-based system with mock cryptocurrency top-ups. Allows users to input data, manage balance, and download generated barcodes as PNG images.",
+  "requestFramePermissions": []
+}
