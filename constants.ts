@@ -1,7 +1,7 @@
 
 import { CryptoCurrency, AAMVAFieldDefinition, AAMVAData } from './types';
 
-export const HCAPTCHA_SITE_KEY = 'ES_dfae760884344547a715ad03fb20a66e'; // Test key, always passes
+export const HCAPTCHA_SITE_KEY = '10000000-ffff-ffff-ffff-000000000001'; // Test key, always passes
 
 export const BARCODE_COST = 5; // in USD
 
